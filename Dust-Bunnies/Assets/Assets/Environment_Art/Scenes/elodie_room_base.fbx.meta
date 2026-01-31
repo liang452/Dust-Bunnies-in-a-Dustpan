@@ -12,7 +12,17 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Walls Tex.001
+    second: {fileID: 2100000, guid: bcdd415e75792004488cfbcb0ea77246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Wood_Tex
+    second: {fileID: 2100000, guid: 5a1e23d9915d1974aac9d534ef62c2d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Tex.001
     second: {fileID: 2100000, guid: 5a1e23d9915d1974aac9d534ef62c2d9, type: 2}
   - first:
       type: UnityEngine:Material
@@ -22,12 +32,17 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: tile_floor
+      name: tile_floor.001
     second: {fileID: 2100000, guid: 58b2e08cbad707b4084ff07fbc35e67a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wall_lip
+    second: {fileID: 2100000, guid: 0fc4bc23bc1a878419095309db450d6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_lip.001
     second: {fileID: 2100000, guid: 0fc4bc23bc1a878419095309db450d6f, type: 2}
   - first:
       type: UnityEngine:Material
